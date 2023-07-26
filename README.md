@@ -23,7 +23,7 @@ ___
     ------
   - ## Login form , Signup form , Password change form
     - ## I have made a common form for all these operations and is linked to single page only
-        ![](https://github.com/Kinzs2001/Notes-App/blob/main/images/edit.png)
+        ![](images/edit.png)
 
 
 
