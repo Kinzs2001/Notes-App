@@ -21,8 +21,8 @@ ___
     - ## These is how the home page looks 
        ![](images/home.png)
     ------
-  - ## Login form , Signup form , Password change form
-    - ## I have made a common form for all these operations and is linked to single page only
+  
+    - ## How to edit and create new note.
         ![](images/edit.png)
 
 
